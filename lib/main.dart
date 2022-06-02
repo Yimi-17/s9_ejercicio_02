@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
             color: Colors.green,
             margin: EdgeInsets.all(10),
             alignment: Alignment.topRight,
-            child: Text(
+            child: const Text(
               'Mi segundo App',
               style: TextStyle(
                 color: Colors.black,
